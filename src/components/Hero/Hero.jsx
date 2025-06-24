@@ -34,7 +34,7 @@ const Hero = () => {
                 ipsam commodi fugit at. Error molestiae non debitis nihil laudantium dolores, 
                 odio, ea dolore vel id labore?
               </p>
-              <button className='primary-btn'>Shop Now</button>
+              <button className='secondary-btn'>Shop Now</button>
             </div>
             
             {/* image section */}
